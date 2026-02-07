@@ -37,7 +37,7 @@
     </tr>
   </thead>
   <tbody>
-      <tr>
+    <tr>
       <td align="center"><b><img src="https://avatars.githubusercontent.com/u/39523898?v=4" width="30" height="30" alt="Steve-xmh" style="vertical-align:sub; margin-right:5px;"><br><a href="https://github.com/Steve-xmh">Steve-xmh</a></b></td>
       <td align="center">✅</td>
       <td align="center">✅</td>
@@ -165,3 +165,23 @@
     </tr>
   </tbody>
 </table>
+
+---
+
+## 表格示例
+```html5
+    <tr>
+      <td align="center"><b><img src="https://avatars.githubusercontent.com/u/39523898?v=4" width="30" height="30" alt="Steve-xmh" style="vertical-align:sub; margin-right:5px;"><br><a href="https://github.com/Steve-xmh">Steve-xmh</a></b></td>
+      <td align="center">❓普通话</td>
+      <td align="center">❓粤语</td>
+      <td align="center">❓闽南语</td>
+      <td align="center">❓英语</td>
+      <td align="center">❓日语</td>
+      <td align="center">❓韩语</td>
+      <td align="center">❓法语</td>
+      <td align="center">❓德语</td>
+      <td align="center">❓西班牙语</td>
+      <td align="center">❓葡萄牙语</td>
+      <td align="center">❓俄语</td>
+    </tr>
+```
