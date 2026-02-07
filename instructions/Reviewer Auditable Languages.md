@@ -171,7 +171,7 @@
 ## 表格示例
 ```html5
     <tr>
-      <td align="center"><b><img src="https://avatars.githubusercontent.com/u/39523898?v=4" width="30" height="30" alt="Steve-xmh" style="vertical-align:sub; margin-right:5px;"><br><a href="https://github.com/Steve-xmh">Steve-xmh</a></b></td>
+      <td align="center"><b><img src="https://avatars.githubusercontent.com/u/{github id}?v=4" width="30" height="30" alt="{github login}" style="vertical-align:sub; margin-right:5px;"><br><a href="https://github.com/{github login}">{github login}</a></b></td>
       <td align="center">❓普通话</td>
       <td align="center">❓粤语</td>
       <td align="center">❓闽南语</td>
