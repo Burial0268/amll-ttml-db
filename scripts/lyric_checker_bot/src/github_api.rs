@@ -659,13 +659,21 @@ impl GitHubClient {
             .get(issue_number)
             .await?;
         let original_author = &issue.user.login;
-        let remarks_to_use = context.remarks.as_deref().unwrap_or("");
+
+        let remarks = context.remarks.as_ref().map_or_else(
+            || {
+                let current_body = pr.body.as_deref().unwrap_or("");
+                let current_params = Self::parse_issue_body(current_body);
+                current_params.get("备注").cloned().unwrap_or_default()
+            },
+            Clone::clone,
+        );
 
         let new_body = Self::generate_body_content(
             issue_number,
             original_author,
             context.metadata_store,
-            remarks_to_use,
+            &remarks,
             context.warnings,
         );
 
