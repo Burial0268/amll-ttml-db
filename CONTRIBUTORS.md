@@ -10,7 +10,7 @@
 > [!TIP]
 > 本排名由机器人根据已在库歌词统计元数据信息后自动生成，贡献最多排前，同贡献量排名不分先后。
 > 
-> 最后更新于 2026-02-23 22:54 (UTC+8)
+> 最后更新于 2026-02-23 22:57 (UTC+8)
 
 ![贡献者头像画廊](https://amll-ttml-db.stevexmh.net/contributors.png)
 
@@ -33,7 +33,7 @@
 | 15 | <img src="https://avatars.githubusercontent.com/u/144699338?v=4" width="20" height="20" style="vertical-align:sub; margin-right:5px" />[toaltf4](https://github.com/toaltf4) | 38 |
 | 16 | <img src="https://avatars.githubusercontent.com/u/142093212?v=4" width="20" height="20" style="vertical-align:sub; margin-right:5px" />[iiiooi](https://github.com/iiiooi) | 35 |
 | 17 | <img src="https://avatars.githubusercontent.com/u/132769718?v=4" width="20" height="20" style="vertical-align:sub; margin-right:5px" />[Y-CIAO](https://github.com/Y-CIAO) | 34 |
-| 18 | <img src="https://avatars.githubusercontent.com/u/42143735?v=4" width="20" height="20" style="vertical-align:sub; margin-right:5px" />[MeTerminator](https://github.com/MeTerminator) | 33 |
+| 18 | <img src="https://avatars.githubusercontent.com/u/42143735?v=4" width="20" height="20" style="vertical-align:sub; margin-right:5px" />[MeTerminator](https://github.com/MeTerminator) | 34 |
 | 19 | <img src="https://avatars.githubusercontent.com/u/59403448?v=4" width="20" height="20" style="vertical-align:sub; margin-right:5px" />[csdeTR](https://github.com/csdeTR) | 32 |
 | 20 | <img src="https://avatars.githubusercontent.com/u/111688524?v=4" width="20" height="20" style="vertical-align:sub; margin-right:5px" />[cybaka520](https://github.com/cybaka520) | 31 |
 | 21 | <img src="https://avatars.githubusercontent.com/u/165106362?v=4" width="20" height="20" style="vertical-align:sub; margin-right:5px" />[Sakkaku1111](https://github.com/Sakkaku1111) | 27 |
