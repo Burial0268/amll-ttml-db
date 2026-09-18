@@ -57,8 +57,8 @@
 | 41 | <img src="https://avatars.githubusercontent.com/u/52089819?v=4" width="20" height="20" style="vertical-align:sub; margin-right:5px" />[Miaoyww](https://github.com/Miaoyww) | 13 |
 | 42 | <img src="https://avatars.githubusercontent.com/u/69256612?v=4" width="20" height="20" style="vertical-align:sub; margin-right:5px" />[Fanzai7838](https://github.com/Fanzai7838) | 13 |
 | 43 | <img src="https://avatars.githubusercontent.com/u/171883270?v=4" width="20" height="20" style="vertical-align:sub; margin-right:5px" />[lansogame](https://github.com/lansogame) | 12 |
-| 44 | <img src="https://avatars.githubusercontent.com/u/141495158?v=4" width="20" height="20" style="vertical-align:sub; margin-right:5px" />[dongyvu](https://github.com/dongyvu) | 10 |
-| 45 | <img src="https://avatars.githubusercontent.com/u/176977142?v=4" width="20" height="20" style="vertical-align:sub; margin-right:5px" />[Nick](https://github.com/Nick) | 10 |
+| 44 | <img src="https://avatars.githubusercontent.com/u/176977142?v=4" width="20" height="20" style="vertical-align:sub; margin-right:5px" />[Nick](https://github.com/Nick) | 11 |
+| 45 | <img src="https://avatars.githubusercontent.com/u/141495158?v=4" width="20" height="20" style="vertical-align:sub; margin-right:5px" />[dongyvu](https://github.com/dongyvu) | 10 |
 | 46 | <img src="https://avatars.githubusercontent.com/u/177028641?v=4" width="20" height="20" style="vertical-align:sub; margin-right:5px" />[WMH2024](https://github.com/WMH2024) | 10 |
 | 47 | <img src="https://avatars.githubusercontent.com/u/36076482?v=4" width="20" height="20" style="vertical-align:sub; margin-right:5px" />[amatke31](https://github.com/amatke31) | 10 |
 | 48 | <img src="https://avatars.githubusercontent.com/u/76810494?v=4" width="20" height="20" style="vertical-align:sub; margin-right:5px" />[Big-Cake-jpg](https://github.com/Big-Cake-jpg) | 10 |
